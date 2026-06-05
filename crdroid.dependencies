@@ -1,0 +1,27 @@
+[
+    {
+            "repository": "crdroidandroid/android_device_google_raviole",
+        "target_path": "device/google/raviole",
+        "branch": "16.0"
+    },
+    {
+            "repository": "crdroidandroid/android_device_google_gs101",
+        "target_path": "device/google/gs101",
+        "branch": "16.0"
+    },
+    {
+            "repository": "crdroidandroid/android_device_google_raviole-kernels",
+        "target_path": "device/google/raviole-kernels/",
+        "branch": "16.0"
+    },
+    {
+            "repository": "crdroidandroid/android_device_google_gs-common",
+        "target_path": "device/google/gs-common",
+        "branch": "16.0"
+    },
+    {
+            "repository": "crdroidandroid/proprietary_vendor_google_raven",
+        "target_path": "vendor/google/raven",
+        "branch": "16.0"
+    }
+]
