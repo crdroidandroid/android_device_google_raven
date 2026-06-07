@@ -20,7 +20,7 @@
         "branch": "16.0"
     },
     {
-            "repository": "crdroidandroid/proprietary_vendor_google_raven",
+            "repository": "crdroidandroid/android_vendor_google_raven",
         "target_path": "vendor/google/raven",
         "branch": "16.0"
     }
